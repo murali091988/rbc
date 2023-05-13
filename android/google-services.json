@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424645059807",
+    "project_id": "hotal-718a4",
+    "storage_bucket": "hotal-718a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424645059807:android:95a7196cbc12e2a62a756a",
+        "android_client_info": {
+          "package_name": "com.example.animated_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424645059807-7tv3v8svjgrn3u5etqd2kh371fnjpi4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC868VBcG_zAq8EGi4AKd3Mzv08oBRhxMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424645059807-7tv3v8svjgrn3u5etqd2kh371fnjpi4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
